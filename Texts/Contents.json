@@ -1,0 +1,25 @@
+{
+  "sideMenu": {
+    "header": {
+      "title": "Kulkupelit Kartalla"
+    },
+    "mainContent": {
+      "title": "Main Settings",
+      "text": [
+        {
+          "type": "paragraph",
+          "content": "Welcome to Kulkupelit Kartalla. This app helps you track and manage your vehicles."
+        },
+        {
+          "type": "link",
+          "text": "HSL",
+          "url": "https://example.com/privacy"
+        },
+        {
+          "type": "paragraph",
+          "content": "Sovelluksen on tuottanut Antti-Jussi"
+        }
+      ]
+    }
+  }
+}
