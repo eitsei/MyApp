@@ -27,7 +27,6 @@ yarn-error.*
 
 # macOS
 .DS_Store
-*.pem
 
 # local env files
 .env*.local
@@ -38,4 +37,8 @@ app.json
 # typescript
 *.tsbuildinfo
 
+# Other potential sensitive files
+*.pem
+
+# Example app file
 app-example
